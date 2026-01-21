@@ -35,6 +35,7 @@
 - <b>Internet of Things</b>
   - [RoomGuard with LoRaWAN](https://github.com/Multi-5/IoT_Project)
 - <b>RUST</b>
+  - [Instrumental Tuner](https://github.com/LenaVcht/RUST_Tuner)
 
 
 
