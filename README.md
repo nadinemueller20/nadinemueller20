@@ -34,6 +34,7 @@
   - [App for Cocktail Recipes](https://github.com/nadinemueller20/cocktailapp)
 - <b>Internet of Things</b>
   - [RoomGuard with LoRaWAN](https://github.com/Multi-5/IoT_Project)
+  - [Connection Simulator Javascript](https://github.com/nadinemueller20/connection-simulator)
 - <b>RUST</b>
   - [Instrumental Tuner](https://github.com/LenaVcht/RUST_Tuner)
 
